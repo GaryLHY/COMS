@@ -9,5 +9,5 @@
  * @author hatanococoro
  */
 public class wwClass {
-    
+    //jdsaf
 }
